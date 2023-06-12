@@ -28,4 +28,5 @@ There are state of the art methods, such as transformers, which do a good job at
 
 ## Data Set
 [Parsed_Papers](https://drive.google.com/drive/folders/1Xz78mg_5LLQUhumIqwQYw93apSsO3DFi) 
+[glove.6B.50d.txt](https://www.kaggle.com/datasets/watts2/glove6b50dtxt)
 
